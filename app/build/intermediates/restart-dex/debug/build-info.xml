@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi,armeabi-v7a"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    timestamp="16323873127920"
+    token="5276032201584032067"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="185" />
+    <task
+        name="instant-run-dex"
+        duration="9" />
+    <task
+        name="instant-run-transform"
+        duration="24" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\Jimmy\AndroidStudioProjects\PokeMap\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="15684479544638"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Jimmy\AndroidStudioProjects\PokeMap\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="15974381347533"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Jimmy\AndroidStudioProjects\PokeMap\app\build\intermediates\builds\debug\15974381347533\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="16135206261129"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Jimmy\AndroidStudioProjects\PokeMap\app\build\intermediates\builds\debug\16135206261129\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="16323873127920"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Jimmy\AndroidStudioProjects\PokeMap\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
